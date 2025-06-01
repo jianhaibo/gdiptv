@@ -1,5 +1,5 @@
 {
     "lives":[
-        {"name":"gddx-rtp","type":0,"url":"./gddx-rtp.txt","playerType":0,"epg":"https://iptv.crestekk.cn/epgphp/index.php/api/diyp/?ch={name}&date={date}"}
+        {"name":"gddx-rtp","type":0,"url":"./gddx-rtp.txt","playerType":1,"epg":"https://iptv.crestekk.cn/epgphp/index.php/api/diyp/?ch={name}&date={date}"}
     ]
 }
